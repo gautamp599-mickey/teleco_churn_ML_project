@@ -4,7 +4,7 @@
 This project uses Machine Learning to predict if a customer is likely to leave a telecommunications service.
 
 ## 🚀 Live Demo
-[Click here to view the Interactive App](PASTE_YOUR_STREAMLIT_LINK_HERE)
+[Click here to view the Interactive App](https://telecochurnmlproject-kf8jspjzdkalmcb6pziylr.streamlit.app/)
 
 ## 📊 Business Problem
 Telecom companies lose revenue when customers switch providers. This tool helps identify "at-risk" customers so the business can offer them special deals before they leave.
